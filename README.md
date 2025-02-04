@@ -1,2 +1,3 @@
 # Yu-Gi-Oh
-Project 5 for CSE 231 at Michigan State University Spring Semester 2024 
+Project 5 for CSE 231 at Michigan State University Spring Semester 2024: <br>
+Imports a csv file of different Cards which gets converted to a list. The list of cards can then be iterated 1 of 3 different ways. The cards are printed along with the Min, Max, and Med stats. A query is entered and that string is searched for inside one of the categories. The data that equals the query is then added to a new list which gets printed and the Min, Max, and Med stats are calculated. A deck of cards is entered in where the Card ID number is present. That card ID number is used to appended cards in the main list to a separate list in which the cards are printed and the Min, Max, Med are stats are calculated and printed.
